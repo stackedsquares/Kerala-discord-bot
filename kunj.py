@@ -2,6 +2,8 @@ import discord
 import random
 from discord.ext import commands
 
+client.run('NjU3OTEzNTU5MzgwMDAwNzkz.XgCaiQ.SDbW3L7QE-wm76f-re_cmosqSEw')
+
 client = commands.Bot(command_prefix = '.')
 
 @client.event
@@ -60,4 +62,4 @@ async def diag(ctx, *, question):
 
 
 
-client.run('NjU3OTEzNTU5MzgwMDAwNzkz.XgCaiQ.SDbW3L7QE-wm76f-re_cmosqSEw')
+
