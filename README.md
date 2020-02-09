@@ -1,2 +1,4 @@
-################################
-Malayalam focussed Discord bot
+# Kunjappan
+
+*kunjappan* is a malayalam focussed discord bot
+
